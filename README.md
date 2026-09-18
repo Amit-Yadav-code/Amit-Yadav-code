@@ -57,7 +57,7 @@ A front-end website concept where users can explore and share innovative ideas.
 
 Tech Stack: "HTML" "CSS"
 
-🔗 Repository: "View Project" (https://github.com/YOUR_USERNAME)
+🔗 Repository: "View Project" (https://github.com/Amit-Yadav-code)
 
 ---
 
@@ -69,7 +69,7 @@ A student-focused website concept designed to organize and provide easy access t
 
 Tech Stack: "HTML" "CSS"
 
-🔗 Repository: "View Project" (https://github.com/YOUR_USERNAME)
+🔗 Repository: "View Project" (https://github.com/Amit-Yadav-code)
 
 ---
 
