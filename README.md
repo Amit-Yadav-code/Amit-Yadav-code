@@ -57,7 +57,7 @@ A front-end website concept where users can explore and share innovative ideas.
 
 Tech Stack: "HTML" "CSS"
 
-🔗 Repository: "View Project" (https://github.com/Amit-Yadav-code)
+🔗 Repository: "View Project" (https://github.com/Amit-Yadav-code/Amit-Yadav-code)
 
 ---
 
@@ -69,7 +69,7 @@ A student-focused website concept designed to organize and provide easy access t
 
 Tech Stack: "HTML" "CSS"
 
-🔗 Repository: "View Project" (https://github.com/Amit-Yadav-code)
+🔗 Repository: "View Project" (https://github.com/Amit-Yadav-code/frontent)
 
 ---
 
@@ -81,8 +81,7 @@ A simple interactive racing game developed using Python's Turtle graphics.
 
 Tech Stack: "Python"
 
-🔗 Repository: "View Project" (https://github.com/Amit-Yadav-code)
-
+🔗 Repository: "View Project" (https://github.com/Amit-Yadav-code/ai-research-pathway)
 ---
 
 🧠 DSA & Problem Solving
